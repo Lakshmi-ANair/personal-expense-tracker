@@ -1,0 +1,6 @@
+{
+  "name": "Personal Expense Tracker",
+  "description": "An aesthetically beautiful personal expense tracker with Natural Tones, featuring advanced sorting, category breakdowns, custom search, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

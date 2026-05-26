@@ -1,0 +1,72 @@
+{
+  "expenses": [
+    {
+      "id": "1",
+      "title": "Coffee at Starbucks",
+      "amount": 450,
+      "category": "food",
+      "date": "2026-05-26",
+      "note": "Regular espresso run"
+    },
+    {
+      "id": "2",
+      "title": "Weekly Groceries",
+      "amount": 3200,
+      "category": "food",
+      "date": "2026-05-25",
+      "note": "Purchased milk, cheese, and organic veggies"
+    },
+    {
+      "id": "3",
+      "title": "Uber to Office",
+      "amount": 1150,
+      "category": "transport",
+      "date": "2026-05-24",
+      "note": "Regional business commute"
+    },
+    {
+      "id": "4",
+      "title": "Broadband Wifi Bills",
+      "amount": 1599,
+      "category": "shopping bills",
+      "date": "2026-05-22",
+      "note": "High-speed optic fiber subscription"
+    },
+    {
+      "id": "5",
+      "title": "Netflix Streaming Subscription",
+      "amount": 649,
+      "category": "entertainment",
+      "date": "2026-05-20",
+      "note": "Monthly Premium UHD subscription"
+    },
+    {
+      "id": "6",
+      "title": "Houseplants Care Potting Mix",
+      "amount": 800,
+      "category": "others",
+      "date": "2026-05-18",
+      "note": "Terracotta containers and premium organic compost"
+    }
+  ],
+  "incomes": [
+    {
+      "id": "i1",
+      "title": "Monthly Salary Core",
+      "amount": 62000,
+      "date": "2026-05-16",
+      "source": "Salary"
+    },
+    {
+      "id": "i2",
+      "title": "Freelance UI Project",
+      "amount": 15000,
+      "date": "2026-05-21",
+      "source": "Freelance"
+    }
+  ],
+  "budgetSettings": {
+    "totalBudget": 60000,
+    "savingsGoal": 15000
+  }
+}
